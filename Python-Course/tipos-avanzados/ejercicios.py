@@ -1,6 +1,6 @@
 from pprint import pprint
 
-string = "Hola mundo este es mi string"
+string = "Hola mundo este es mi string de ROSI"
 
 
 def quita_espacios(texto):
